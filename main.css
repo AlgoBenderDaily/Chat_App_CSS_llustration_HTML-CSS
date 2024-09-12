@@ -336,9 +336,9 @@ h3 {
   }
 
   .main {
-    position: absolute;
+    /* position: absolute;
     top: 18.5%;
-    left: 31.46%;
+    left: 31.46%; */
     flex-flow: row;
     gap: 125px;
   }
